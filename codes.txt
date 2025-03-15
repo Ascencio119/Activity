@@ -1,1 +1,2 @@
 Es un conjunto de instrucciones escritas para que una computadora pueda entender
+se usan en los lenguajes de programacion
